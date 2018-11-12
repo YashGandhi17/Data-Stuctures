@@ -117,6 +117,7 @@ void main()
     printf("enter 1 to insert\n");
     printf("enter 2 to delete\n");
     printf("enter 3 to display\n");
+    printf("enter 4 to measure\n"); 
     printf("enter 5 to exit\n");
     while(i!=6)
     {
